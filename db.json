@@ -3,7 +3,7 @@
       {
          "id":0,
          
-            "name":"Cool NFT #1",
+            "name":"Changed name",
             "description":"This is a cool NFT",
             "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
        
@@ -11,7 +11,7 @@
       {
          "id":1,
 
-            "name":"Cool NFT #2",
+            "name":"changed name#2",
             "description":"This is a cool NFT",
             "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
          
