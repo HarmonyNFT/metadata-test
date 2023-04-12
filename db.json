@@ -5,7 +5,13 @@
          
             "name":"Changed name",
             "description":"This is a cool NFT",
-            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
+            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png",
+             "attributes":[
+{
+                  "trait_type":   "test trait 11",  "value":"11"},
+{
+                  "trait_type":   "test trait 22",    "value":"22"}
+]
        
       },
       {
@@ -13,8 +19,15 @@
 
             "name":"changed name#2",
             "description":"This is a cool NFT",
-            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
+            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png",
+           "attributes":[
+{
+                  "trait_type":   "test trait 11",  "value":"11"},
+{
+                  "trait_type":   "test trait 22",    "value":"22"}
+]
          
       }
    ]
 }
+
