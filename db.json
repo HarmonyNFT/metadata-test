@@ -3,33 +3,41 @@
       {
          "id":0,
          
-            "name":"Card#1",
-            "description":"This is a cool NFT",
-            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png",
+            "name":"Fiery Samurai Scout",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/bafybeiaohe7rzze4ymeujgqpmvdbp24mnvezufjogu5yqs6pvbcyocb7q4/Fiery%20Samurai%20Scout.png",
              "attributes":[
 {
-                  "trait_type":   "cost",  "value":"1 Mana"},
+                  "trait_type":   "rarity",  "value":"common"},
 {
-                  "trait_type":   "attack",  "value":"1"},
+                  "trait_type":   "cost",  "value":"2 Mana"},
+{
+                  "trait_type":   "attack",  "value":"2"},
 {
                   "trait_type":   "defense",    "value":"2"},
 {
-                  "trait_type":   "effect",    "value":"deal 1 damage"}
+                  "trait_type":   "effect",    "value":"no effect"}
 ]
        
       },
       {
          "id":1,
 
-            "name":"changed name#2",
-            "description":"This is a cool NFT",
-            "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png",
-           "attributes":[
-{
-                  "trait_type":   "test trait 11",  "value":"11"},
-{
-                  "trait_type":   "test trait 22",    "value":"22"}
-]
+            "name":"Skeleton",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmcFRrtk84UdtkvBCp19PxPuPRutdHVWD8VQ4wQrZUaQbu/Skeleton.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"common"},
+               {
+                                 "trait_type":   "cost",  "value":"1 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"1"},
+               {
+                                 "trait_type":   "defense",    "value":"1"},
+               {
+                                 "trait_type":   "effect",    "value":"no effect"}
+               ]
          
       }
    ]
