@@ -3,14 +3,18 @@
       {
          "id":0,
          
-            "name":"Changed name",
+            "name":"Card#1",
             "description":"This is a cool NFT",
             "image":"https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png",
              "attributes":[
 {
-                  "trait_type":   "test trait 11",  "value":"11"},
+                  "trait_type":   "cost",  "value":"1 Mana"},
 {
-                  "trait_type":   "test trait 22",    "value":"22"}
+                  "trait_type":   "attack",  "value":"1"},
+{
+                  "trait_type":   "defense",    "value":"2"},
+{
+                  "trait_type":   "effect",    "value":"deal 1 damage"}
 ]
        
       },
